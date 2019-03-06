@@ -1,4 +1,8 @@
 [
+  {
+        "name": "Racker",
+        "colors": ["#EB0000", "#95008A", "#3300FC"]
+    },
     {
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
